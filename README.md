@@ -1,9 +1,8 @@
 # Hi there, I'm Kinborke! 👋
 
-![Header](./header.png)
 
 ## About Me
-I'm a **Big Data Engineer** with a passion for data processing, analysis, and scalable systems. I specialize in Python, Spark, Hadoop, Kafka, and more.
+I'm a **Big Data Engineer** with a passion for data processing, analysis, and scalable systems.
 
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -11,6 +10,8 @@ I'm a **Big Data Engineer** with a passion for data processing, analysis, and sc
 ![Hadoop](https://img.shields.io/badge/-Hadoop-333333?style=flat&logo=apachehadoop)
 ![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=apachekafka)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![Cassandra](https://img.shields.io/badge/-Cassandra-333333?style=flat&logo=apachecassandra)
 
 
 ## 📈 GitHub Stats
